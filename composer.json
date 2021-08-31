@@ -5,7 +5,7 @@
         "php": "^8.0",
         "illuminate/http": "^8.0",
         "illuminate/support": "^8.0",
-        "illuminate/database": "^8.4.0",
+        "illuminate/database": "^8.40.0",
         "jonathan-martz/lumen-controller": "dev-master",
         "jmartz-gmbh/lumen-migration-lighthouse-report-items": "dev-master"
     },
