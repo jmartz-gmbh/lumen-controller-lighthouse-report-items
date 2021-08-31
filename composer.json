@@ -1,5 +1,5 @@
 {
-    "name": "jmartz-gmbh/lumen-controller-lighthouse-report",
+    "name": "jmartz-gmbh/lumen-controller-lighthouse-report-items",
     "description": "Php Lumen Ligthouse Report Controller",
     "require": {
         "php": "^8.0",
