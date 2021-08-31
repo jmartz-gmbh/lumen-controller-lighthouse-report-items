@@ -5,10 +5,10 @@ namespace App\Providers;
 use Illuminate\Support\ServiceProvider;
 
 /**
- * Class LighthouseReportProvider
+ * Class LighthouseReportItemsProvider
  * @package App\Providers
  */
-class LighthouseReportProvider extends ServiceProvider
+class LighthouseReportItemsProvider extends ServiceProvider
 {
     /**
      * Register any application services.
